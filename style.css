@@ -1159,6 +1159,7 @@ ul.tabs-nav .tab-nav.active {
     font-size: 48px;
     font-weight: 600;
     color: #fff;
+    font-family: 'Raleway', sans-serif;
 }
 
 .faq-stuff .accordion-wrap .entry-content p {
@@ -1626,4 +1627,9 @@ ul.tabs-nav .tab-nav.active {
 
 .faq-answer {
     font-size: 14px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.faq-question {
+    font-family: 'Raleway', sans-serif;
 }
