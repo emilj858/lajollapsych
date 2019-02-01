@@ -1633,3 +1633,15 @@ ul.tabs-nav .tab-nav.active {
 .faq-question {
     font-family: 'Raleway', sans-serif;
 }
+
+
+
+@media screen and (max-width: 500px){
+    .services-page {
+        width: 320px;
+        margin-left: 15px;
+    }
+    .container.services {
+        display: none;
+    }
+}
